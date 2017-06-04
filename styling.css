@@ -24,21 +24,56 @@ ul {
         color: #1E90FF
 }
 
-#education {
+#education1 {
         font-family: monospace;
         font-weight: bold;
         font-style: italic;
         color: #2F4F4F
 }
 
-#workexp {
+#education2 {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #2F4F4F
+}
+
+#workexp1 {
         font-family: monospace;
         font-weight: bold;
         font-style: italic;
         color: #32CD32
 }
 
-#skills {
+#workexp2 {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #32CD32
+}
+
+#workexp3 {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #32CD32
+}
+
+#workexp4 {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #32CD32
+}
+
+#skills1 {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #800000
+}
+
+#skills2 {
         font-family: monospace;
         font-weight: bold;
         font-style: italic;
