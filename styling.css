@@ -1,0 +1,53 @@
+body {
+        background-color: #FAF0E6
+
+}
+
+h1 {
+        font-family: sans-serif;
+        color: #20B2AA
+}
+
+p {
+        font-family: fantasy;
+        color: 	#8B0000
+}
+
+a {
+        font-family: fantasy;
+        font-weight: bolder;
+}
+
+ul {
+        list-style: circle;;
+        font-family: monospace;
+        color: #1E90FF
+}
+
+#education {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #2F4F4F
+}
+
+#workexp {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #32CD32
+}
+
+#skills {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #800000
+}
+
+#activities {
+        font-family: monospace;
+        font-weight: bold;
+        font-style: italic;
+        color: #4B0082
+}
